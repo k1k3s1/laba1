@@ -1,0 +1,22 @@
+﻿<html>
+<head>
+<meta charset = "utf-8">
+<title>Моя сторінка</title>
+</head>
+<body style = "color:#FFBF00" bgcolor = "#007FFF">
+<h1 align="center">Моя сторінка</h1>
+<div align="center"><img src="https://cs7063.vk.me/c638823/v638823879/1ce7/SU0ZQm6_keU.jpg" height="500 px" width = "800 px" /></div>
+<p align="center"><b> Мене звати Андрій, я студент группи КНИТ17-Г </b></p>
+
+<hr/>
+<h2 align="center"> <pre>Зарас я хочу розповісти тобі про своє хоббі. Я люблю слухати музику, різних жанрів, але полюбляю саме: Electro, Trap, Dubstep.</pre></h2>
+<div align="center"><img src="https://sun9-33.userapi.com/c841634/v841634572/62988/nCp9JMSng-E.jpg"></div>
+<h2 align="center"> <pre> Мій улюблений Dj
+Skrillex - Мені він подобається своэю неповторною музикою, які стають світовими хітами! </pre></h2>
+<div align="center"><img src="http://38.media.tumblr.com/tumblr_m9ulc09KYE1rnqghpo1_500.gif" height="400 px" width = "800 px" /></div>
+
+<h3 align="center"> <pre>Спасибо за внимание!
+Ну а мені пора!</pre></h3>
+</body>
+</html>
+<marquee><img src="http://htmlka.com/wp-content/uploads/2014/07/hamwalk.gif">
